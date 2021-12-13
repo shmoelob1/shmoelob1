@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shai Shmoelov.
+- 👀 I’m interested in JAVA/C++ development.
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on projects in JAVA.
+- 📫 You can reach me here: shmoelob1@gmail.com
